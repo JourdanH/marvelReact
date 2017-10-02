@@ -1,0 +1,6 @@
+language: node_js
+deploy:
+  provider: heroku
+  api_key:
+    secure: b230859e-2843-4ef1-a34e-0592cb82d442
+  app: sleepy-beyond-35248
